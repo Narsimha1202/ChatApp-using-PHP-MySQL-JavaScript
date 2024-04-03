@@ -41,14 +41,7 @@ This repository contains the source code for a real-time chat web application de
 - Messages sent between users will appear in real-time in their respective chat boxes.
 - Logout from the application anytime using the provided logout button.
 
-# Contributing
-Contributions to this project are welcome! If you'd like to contribute, please follow the standard GitHub workflow:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/your-feature-name`).
-6. Create a new Pull Request.
+
 
 # Preview
 # Signup: ![Signup](https://github.com/Narsimha1202/ChatApp-using-PHP-MySQL-JavaScript/assets/98202100/f9ad2ba6-aee0-4399-bad1-bd59e080057d)
@@ -60,7 +53,14 @@ Contributions to this project are welcome! If you'd like to contribute, please f
 # Users Shown in DB: ![Users shown in DB](https://github.com/Narsimha1202/ChatApp-using-PHP-MySQL-JavaScript/assets/98202100/fc17132b-09c5-4762-a66a-363608e8e57d)
 # Messages stored in DB: ![Messages stored in DB](https://github.com/Narsimha1202/ChatApp-using-PHP-MySQL-JavaScript/assets/98202100/bb2af355-a086-4d13-857f-ffdc0f9a367f)
 
-
+# Contributing
+Contributions to this project are welcome! If you'd like to contribute, please follow the standard GitHub workflow:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature-name`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/your-feature-name`).
+6. Create a new Pull Request.
 
 For any further inquiries or issues, feel free to contact at [gundarapunarsimhareddy@gmail.com](mailto:gundarapunarsimhareddy@gmail.com).
 
